@@ -1,0 +1,16 @@
+C:\Users\nalun\onedrive\desktop\sphinx\obj\Debug\net5.0\program.csproj.AssemblyReference.cache
+C:\Users\nalun\onedrive\desktop\sphinx\obj\Debug\net5.0\program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nalun\onedrive\desktop\sphinx\obj\Debug\net5.0\program.AssemblyInfoInputs.cache
+C:\Users\nalun\onedrive\desktop\sphinx\obj\Debug\net5.0\program.AssemblyInfo.cs
+C:\Users\nalun\onedrive\desktop\sphinx\obj\Debug\net5.0\program.csproj.CoreCompileInputs.cache
+C:\Users\nalun\onedrive\desktop\sphinx\bin\Debug\net5.0\program.exe
+C:\Users\nalun\onedrive\desktop\sphinx\bin\Debug\net5.0\program.deps.json
+C:\Users\nalun\onedrive\desktop\sphinx\bin\Debug\net5.0\program.runtimeconfig.json
+C:\Users\nalun\onedrive\desktop\sphinx\bin\Debug\net5.0\program.runtimeconfig.dev.json
+C:\Users\nalun\onedrive\desktop\sphinx\bin\Debug\net5.0\program.dll
+C:\Users\nalun\onedrive\desktop\sphinx\bin\Debug\net5.0\ref\program.dll
+C:\Users\nalun\onedrive\desktop\sphinx\bin\Debug\net5.0\program.pdb
+C:\Users\nalun\onedrive\desktop\sphinx\obj\Debug\net5.0\program.dll
+C:\Users\nalun\onedrive\desktop\sphinx\obj\Debug\net5.0\ref\program.dll
+C:\Users\nalun\onedrive\desktop\sphinx\obj\Debug\net5.0\program.pdb
+C:\Users\nalun\onedrive\desktop\sphinx\obj\Debug\net5.0\program.genruntimeconfig.cache
